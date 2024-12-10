@@ -1,0 +1,7 @@
+//des types
+export const GET_DEVS_DATA = "GET_DEVS_DATA";
+export const DEV_DATA_CREATE = "DEV_DATA_CREATE";
+export const DEV_DATA_DELETE = "DEV_DATA_DELETE";
+export const DEV_DATA_UPDATE = "DEV_DATA_UPDATE";
+export const DEV_DATA_SEARCH = "DEV_DATA_SEARCH";
+export const DEV_PROFILE_UPLOAD = "DEV_PROFILE_UPLOAD";
